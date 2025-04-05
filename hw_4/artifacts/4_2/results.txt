@@ -1,0 +1,16 @@
+ThreadPoolExecutor, n_jobs=1: 1.2373905181884766s
+ThreadPoolExecutor, n_jobs=2: 1.266681432723999s
+ThreadPoolExecutor, n_jobs=3: 1.262664556503296s
+ThreadPoolExecutor, n_jobs=4: 1.2702186107635498s
+ThreadPoolExecutor, n_jobs=5: 1.2865967750549316s
+ThreadPoolExecutor, n_jobs=6: 1.2711734771728516s
+ThreadPoolExecutor, n_jobs=7: 1.2857534885406494s
+ThreadPoolExecutor, n_jobs=8: 1.2722795009613037s
+ProcessPoolExecutor, n_jobs=1: 1.2288856506347656s
+ProcessPoolExecutor, n_jobs=2: 0.6660408973693848s
+ProcessPoolExecutor, n_jobs=3: 0.6759195327758789s
+ProcessPoolExecutor, n_jobs=4: 0.7534070014953613s
+ProcessPoolExecutor, n_jobs=5: 0.7593610286712646s
+ProcessPoolExecutor, n_jobs=6: 0.7646281719207764s
+ProcessPoolExecutor, n_jobs=7: 0.7587568759918213s
+ProcessPoolExecutor, n_jobs=8: 0.7591369152069092s
