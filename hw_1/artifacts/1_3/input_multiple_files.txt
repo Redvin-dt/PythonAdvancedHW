@@ -1,0 +1,4 @@
+~/python_advanced/PythonAdvancedHW/hw_1/wc (hw1*) » uv run main.py main.py pyproject.toml
+55 121 1320 main.py
+7 22 148 pyproject.toml
+62 143 1468 total

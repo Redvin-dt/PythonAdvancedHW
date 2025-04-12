@@ -1,0 +1,7 @@
+~/python_advanced/PythonAdvancedHW/hw_1/wc (hw1*) » uv run main.py
+test
+test1
+some text with spaces
+!@#$%ˆ&*()
+
+4 7 40

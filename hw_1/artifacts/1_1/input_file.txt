@@ -1,0 +1,8 @@
+~/python_advanced/PythonAdvancedHW/hw_1/nl (hw1*) » uv run main.py -f pyproject.toml
+1 [project]
+2 name = "nl"
+3 version = "0.1.0"
+4 description = "Add your description here"
+5 readme = "README.md"
+6 requires-python = ">=3.12"
+7 dependencies = []
