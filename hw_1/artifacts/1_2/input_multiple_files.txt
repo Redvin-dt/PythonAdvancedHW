@@ -1,0 +1,20 @@
+~/python_advanced/PythonAdvancedHW/hw_1/tail (hw1*) » uv run main.py main.py pyproject.toml
+===> main.py <===
+            except EOFError:
+                break
+
+        print()
+        for line in queue:
+            print(line, end="")
+
+
+if __name__ == "__main__":
+    main()
+===> pyproject.toml <===
+[project]
+name = "tail"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

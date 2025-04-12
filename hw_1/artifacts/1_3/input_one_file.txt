@@ -1,0 +1,2 @@
+~/python_advanced/PythonAdvancedHW/hw_1/wc (hw1*) » uv run main.py main.py
+55 121 1320 main.py

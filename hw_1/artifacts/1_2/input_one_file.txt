@@ -1,0 +1,11 @@
+~/python_advanced/PythonAdvancedHW/hw_1/tail (hw1*) » uv run main.py main.py
+            except EOFError:
+                break
+
+        print()
+        for line in queue:
+            print(line, end="")
+
+
+if __name__ == "__main__":
+    main()

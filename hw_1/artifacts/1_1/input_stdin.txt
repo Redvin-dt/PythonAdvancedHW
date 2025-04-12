@@ -1,0 +1,11 @@
+uv run main.py                                                                                                     afonckinp@compute-vm-4-8-200-hdd-1730137994404
+tes
+1 tes
+test
+2 test
+test1
+3 test1
+some text with spaces
+4 some text with spaces
+!@$%ˆ&*()_
+5 !@$%ˆ&*()_
